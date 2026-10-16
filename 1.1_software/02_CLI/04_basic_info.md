@@ -19,5 +19,6 @@ Use CLI commands to inspect your system.
    ```
 
 **Upload screenshots for every step**
-
-
+![Step1](images/CLI_activity4_1)
+![Step2](iamges/CLI_activity4_2)
+![Step3](images/CLI_activitty4_3)
