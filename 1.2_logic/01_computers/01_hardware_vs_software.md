@@ -17,6 +17,6 @@ Software is a program or system with sets of instructions to operate and communi
 Write **at least 50 words** describing how they interact.
 ---
 Hardware interacts with software through a structured hierarchy that starts with the CPU, which processes information through the fetch-decode-execute cycle.
-*Fetch - takes an instruction from RAM.
-*Decode - decodes the code and explains what to do
-*Execute - the ALU processes the physical operation  
+* **Fetch** - takes an instruction from RAM.
+* **Decode** - decodes the code and explains what to do
+* **Execute** - the ALU processes the physical operation  
